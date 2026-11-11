@@ -7,5 +7,8 @@ y después mejora el código sin romper las pruebas (REFACTOR).
 Si una entrada no tiene sentido (horas negativas, un servicio que no existe, etc.),
 la función debe lanzar ValueError.
 """
+
 def cambio_de_sesion(horas_anticipacion):
-    return ("reprograma", 0)
+    if horas_anticipacion >= 24:
+        return ("reprograma", 0)
+    return ("reprograma", 80)
