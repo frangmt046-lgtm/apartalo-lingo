@@ -20,4 +20,6 @@ def total_compra(sueltas, grupales, personas, paquetes):
         return(320 * sueltas)
     if grupales > 0:
         return(190 * personas)
+    if paquetes >0:
+        return(2700 * paquetes)
     return 320
