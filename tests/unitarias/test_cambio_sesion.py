@@ -4,3 +4,7 @@ from apartalo.reglas import cambio_de_sesion
 @pytest.mark.unitaria
 def test_cambio_con_24_horas_o_mas_se_reprograma_sin_costo():
     assert cambio_de_sesion(horas_anticipacion=30) == ("reprograma", 0)
+
+@pytest.mark.unitaria
+def test_cambio_entre_4_y_24_horas_cobra_80():
+    assert cambio_de_sesion(horas_anticipacion=10) == ("reprograma", 80)
