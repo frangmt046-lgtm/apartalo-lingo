@@ -9,6 +9,8 @@ la función debe lanzar ValueError.
 """
 
 def cambio_de_sesion(horas_anticipacion):
+    if horas_anticipacion < 0:
+            raise ValueError("Las horas de anticipación no pueden ser negativas")
     if horas_anticipacion >= 24:
         return ("reprograma", 0)
     if horas_anticipacion < 4:
