@@ -5,9 +5,9 @@
 
 | Columna | Límite | Por qué ese número |
 |---|---|---|
-| Aceptación | | |
-| Desarrollo | | |
-| Pruebas | | |
+| Aceptación | 2 | Afinar criterios es rápido; se puede dejar lista la siguiente historia mientras se programa otra |
+| Desarrollo | 1 | Al ser un equipo de una persona solo puedo programar una cosa a la vez|
+| Pruebas | 1 | Se prueba una hisotoria y se libera antes de tomar otra|
 
 ## 3.3 Políticas explícitas
 
