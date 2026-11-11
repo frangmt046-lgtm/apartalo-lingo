@@ -12,3 +12,8 @@ def test_cambio_entre_4_y_24_horas_cobra_80():
 @pytest.mark.unitaria
 def test_menos_de_4_horas_la_sesion_se_pierde():
     assert cambio_de_sesion(horas_anticipacion=2) == ("pierde", 0)
+
+@pytest.mark.unitaria
+def test_horas_negativas_lanzan_error():
+    with pytest.raises(ValueError):
+        cambio_de_sesion(horas_anticipacion=-5)
