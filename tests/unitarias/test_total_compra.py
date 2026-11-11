@@ -16,3 +16,9 @@ def test_un_grupal_con_tres_personas_cuesta_570():
 @pytest.mark.unitaria
 def test_un_paquete_cuesta_2700():
     assert total_compra(sueltas=0, grupales=0, personas=0, paquetes=1) == 2700
+
+@pytest.mark.unitaria
+def test_personas_fuera_del_rango_da_error():
+    with pytest.raises(ValueError):
+        total_compra(sueltas=0, grupales=1, personas=1, paquetes=0) == 190
+
