@@ -16,6 +16,8 @@ def cambio_de_sesion(horas_anticipacion):
     return ("reprograma", 80)
 
 def total_compra(sueltas, grupales, personas, paquetes):
-    if sueltas > 1:
+    if sueltas > 0:
         return(320 * sueltas)
+    if grupales > 0:
+        return(190 * personas)
     return 320
