@@ -16,12 +16,15 @@ def cambio_de_sesion(horas_anticipacion):
     return ("reprograma", 80)
 
 def total_compra(sueltas, grupales, personas, paquetes):
-    if grupales > 0 and personas < 2 or personas > 4:
-        raise ValueError("La cantidad de personas esta fuera del rango")
-    if sueltas > 0:
-        return(320 * sueltas)
+    """R1: total de una compra en Lingo.
+
+    total = sueltas × 320 + grupales × 190 × personas + paquetes × 2700
+    Lanza ValueError si hay cantidades negativas o si una sesión
+    grupal no tiene de 2 a 4 personas.
+    """
+    if sueltas < 0 or grupales < 0 or paquetes < 0:
+        raise ValueError("Las cantidades no pueden ser negativas")
     if grupales > 0:
-        return(190 * personas)
-    if paquetes >0:
-        return(2700 * paquetes)
-    return 320
+        if personas < 2 or personas > 4:
+            raise ValueError("Una sesión grupal debe tener de 2 a 4 personas")
+    return 320 * sueltas + 190 * grupales * personas + 2700 * paquetes
