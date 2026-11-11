@@ -1,16 +1,14 @@
-"""Reglas de negocio de mi variante (Ejercicio 6).
-
-Aquí van las funciones de R1 y R2. Escríbelas con TDD:
-primero una prueba que falle (ROJO), luego el código mínimo para que pase (VERDE),
-y después mejora el código sin romper las pruebas (REFACTOR).
-
-Si una entrada no tiene sentido (horas negativas, un servicio que no existe, etc.),
-la función debe lanzar ValueError.
-"""
-
 def cambio_de_sesion(horas_anticipacion):
+    """R2: decide qué pasa si el alumno cambia o cancela una sesión.
+
+    Regresa una tupla (resultado, cargo):
+    - 24 horas o más: ("reprograma", 0)
+    - 4 horas o más, pero menos de 24: ("reprograma", 80)
+    - menos de 4 horas: ("pierde", 0)
+    Lanza ValueError si las horas son negativas.
+    """
     if horas_anticipacion < 0:
-            raise ValueError("Las horas de anticipación no pueden ser negativas")
+        raise ValueError("Las horas de anticipación no pueden ser negativas")
     if horas_anticipacion >= 24:
         return ("reprograma", 0)
     if horas_anticipacion < 4:
