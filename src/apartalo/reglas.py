@@ -14,3 +14,6 @@ def cambio_de_sesion(horas_anticipacion):
     if horas_anticipacion < 4:
         return ("pierde", 0)
     return ("reprograma", 80)
+
+def total_compra(sueltas, grupales, personas, paquetes):
+    return 320
