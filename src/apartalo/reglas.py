@@ -16,6 +16,8 @@ def cambio_de_sesion(horas_anticipacion):
     return ("reprograma", 80)
 
 def total_compra(sueltas, grupales, personas, paquetes):
+    if grupales > 0 and personas < 2 or personas > 4:
+        raise ValueError("La cantidad de personas esta fuera del rango")
     if sueltas > 0:
         return(320 * sueltas)
     if grupales > 0:
