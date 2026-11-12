@@ -23,6 +23,7 @@ def test_personas_fuera_del_rango_da_error():
         total_compra(sueltas=0, grupales=1, personas=1, paquetes=0)
 
 @pytest.mark.unitaria
+@pytest.mark.regresion
 def test_compra_combinada_suma_todo():
     assert total_compra(sueltas=2, grupales=2, personas=3, paquetes=1) == 4480
 
