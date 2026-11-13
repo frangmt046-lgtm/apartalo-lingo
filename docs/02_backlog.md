@@ -17,8 +17,8 @@
 
 | Beneficio que revisé | Historia que encontré | Issue |
 |---|---|---|
-| Pagar menos aunque no conozca a otros alumnos | Para poder pagar menos sin tener que buscar compañeros en persona, como alumno, quiero mandar una solicitud para volver grupal una sesión individual | # |
-| Que los alumnos tomen sesiones con constancia | Para poder mantener una constancia en las sesiones que toman los alumnos, como administrador, quiero activar una racha semanal de sesiones a los alumnos | # |
+| Pagar menos aunque no conozca a otros alumnos | Para poder pagar menos sin tener que buscar compañeros en persona, como alumno, quiero mandar una solicitud para volver grupal una sesión individual | #14 |
+| Que los alumnos tomen sesiones con constancia | Para poder mantener una constancia en las sesiones que toman los alumnos, como administrador, quiero activar una racha semanal de sesiones a los alumnos | #15 |
 
 ¿Cómo me ayudó ordenar por beneficio? me ayudo a ver mas que solo lo que necesitan los roles, pude imginar la app como si la tuviera en mis manos.
 
@@ -35,5 +35,5 @@
 ## 2.6 El iceberg
 
 - **En la punta:** Las historias de R1 y R2, porque ya estan programadas.
-- **En el fondo:** Las historias de R3, por que aun no estan bien definidas.
-- **Por qué:** Las historias ya definidas agregan mas valor, lo demas espera a ser aclarado para poder subir. Asi evitamos resultados no esperados
+- **En el fondo:** Las epicas que aun no estan bien definidas.
+- **Por qué:** Las historias ya definidas agregan mas valor, lo demas espera a ser aclarado para poder subir. Asi evitamos resultados no esperados. R1, R2 y R3 son el corazón del negogio, todo lo demas toma forma en base a eso.
