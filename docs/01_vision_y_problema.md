@@ -36,9 +36,9 @@ La combinación de Scrum y Kanban se llama: Scrumban
 | # | Lo que dijo mi cliente | ¿Requisito o solución? | Si es solución: el requisito que hay detrás |
 |---|---|---|---|
 | 1 | Los alumnos me escriben a cualquier hora para cambiar su clase y me vuelvo loca. |Requisito | |
-| 2 | Quiero que la app tenga la bandera de cada país en la portada. | Soluición | El cliente quiere que se pueda seleccionar el idioma de las sesiones desde la portada |
+| 2 | Quiero que la app tenga la bandera de cada país en la portada. | Solución | El cliente quiere que se pueda seleccionar el idioma de las sesiones desde la portada |
 | 3 | Que el alumno vea cuántas sesiones le quedan de su paquete. | Solución | El cliente quiere que se pueda mostrar la cantidad de sesiones restantes de un paquete | 
-| 4 | Que lo hagan en la misma plataforma que usan las universidades. | Requisito | |
+| 4 | Que lo hagan en la misma plataforma que usan las universidades. | Solución | El cliente quiere que el servicio se pueda conectar a las plataformas de las universidades. |
 | 5 | No sé si dar clases grupales en línea o solo presenciales. | Duda | | 
 
 ## 1.6 Incertidumbre
@@ -46,4 +46,4 @@ La combinación de Scrum y Kanban se llama: Scrumban
 - **Incertidumbre del *qué*:** alto, por que los requisitos no son claros y aun hay dudas.
 - **Incertidumbre del *cómo*:** medio, por que hay cosas que serán faciles de hacer pero otras tomara tiempo investigar como hacerlas.
 - **Zona del diagrama:** Complejo
-- **Qué haré en este sprint para bajar la incertidumbre del *qué*:** mMstrarle a Sofía el prototipo de Figma y pedirle que con el resuelva sus dudas como si las clases serán en linea.
+- **Qué haré en este sprint para bajar la incertidumbre del *qué*:** Mostrarle a Sofía el prototipo de Figma y pedirle que con el resuelva sus dudas como si las clases serán en linea.

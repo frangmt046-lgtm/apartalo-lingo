@@ -2,7 +2,7 @@
 > Ejercicio 2 · Tema 6 · 🎩 PO
 > Las historias van como **issues** (formulario "Historia de usuario"). Aquí va lo demás.
 
-## 2.1 Roles
+## 2.1 Roles 
 
 | Rol | Quién es | Qué desea |
 |---|---|---|

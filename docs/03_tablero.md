@@ -13,20 +13,20 @@
 
 | Para pasar a… | La tarjeta debe cumplir… |
 |---|---|
-| Aceptación | |
-| Desarrollo | |
-| Desarrollo listo | |
-| Pruebas | |
-| Pruebas listo | |
-| Liberación | |
+| Aceptación | Cuando su prioridad es must o should y sus puntos asignados los mas bajos. |
+| Desarrollo | Cuando los criterios de aceptación son claros, los escenarios BDD ya están escritos y que no rebase la carga máxima. |
+| Desarrollo listo | Cuando pasa todas las unitarias. |
+| Pruebas | Cuando ya paso por Desarrollo listo y hay un lugar disponible. |
+| Pruebas listo | Cuando todos los escenarios pasan |
+| Liberación | Cuando todas las pruebas pytest fueron aprobadas. |
 
 ## 3.4 Las seis prácticas de kanban en mi tablero
 
 | Práctica | Cómo la aplico (o por qué todavía no aplica) |
 |---|---|
-| 1. Visualizar el trabajo | |
-| 2. Limitar el WIP | |
-| 3. Administrar el flujo | |
-| 4. Hacer explícitas las políticas | |
-| 5. Implementar ciclos de retroalimentación | |
-| 6. Mejora colaborativa y evolución experimental | |
+| 1. Visualizar el trabajo | Se aplico en las historias de usuario con estatus, puntos y prioridad. |
+| 2. Limitar el WIP | Limites 2,1 y 1. |
+| 3. Administrar el flujo | El estatus con respecto a las fechas de inicio y terminado. |
+| 4. Hacer explícitas las políticas | Las politicas quedan bien definidas en la tabla Políticas explícitas. |
+| 5. Implementar ciclos de retroalimentación | Con la junta diaria, la revisión y la retrospectiva |
+| 6. Mejora colaborativa y evolución experimental | Aprendo al avanzar el proyecto, me doy cuenta de errores y cosas que podrian mejorar mientras trabajo. |

@@ -9,7 +9,7 @@
 | 2 | [45c6d9d](https://github.com/frangmt046-lgtm/apartalo-lingo/commit/45c6d9d) | [c9e802f](https://github.com/frangmt046-lgtm/apartalo-lingo/commit/c9e802f) | — | Cambiar de resultados fijos a posibles escenarios y el manejo de estos |
 | 3 | [4cfee9f](https://github.com/frangmt046-lgtm/apartalo-lingo/commit/4cfee9f) | [a5744d2](https://github.com/frangmt046-lgtm/apartalo-lingo/commit/a5744d2) | — | manejo de errores y mejora del codigo con el REFACTOR |
 | 4 | [901f594](https://github.com/frangmt046-lgtm/apartalo-lingo/commit/901f594) | [ec3c5dc](https://github.com/frangmt046-lgtm/apartalo-lingo/commit/ec3c5dc) | [706dc51](https://github.com/frangmt046-lgtm/apartalo-lingo/commit/706dc51) | manejo de errores y mejora del código con el REFACTOR |
-
+ 
 ## 6.6 Cobertura de caminos
 
 - **Función:** cambio_de_sesion

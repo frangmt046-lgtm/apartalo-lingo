@@ -8,7 +8,7 @@ Criterio que usé: Asigne los valores Must a todo lo que Sofia necesita para tra
 
 ## 4.2 Ilustrar
 
-Historia: #8
+Historia: #8 
 Boceto:
 
 ![boceto](img/PantallaCompra.png)
