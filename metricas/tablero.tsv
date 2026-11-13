@@ -1,0 +1,24 @@
+Title	URL	Status	Puntos	Prioridad	Sprint	Inicio	 Terminado	Labels
+HU: Cambio o cancelación	https://github.com/frangmt046-lgtm/apartalo-lingo/issues/1	Liberación	3	Must	Sprint 1	Nov 10, 2026	Nov 11, 2026	historia
+HU: Agendar sesión	https://github.com/frangmt046-lgtm/apartalo-lingo/issues/2	Historias	2	Must				historia
+HU: Pagar total	https://github.com/frangmt046-lgtm/apartalo-lingo/issues/3	Liberación	5	Must	Sprint 1	Nov 10, 2026	Nov 11, 2026	historia
+HU: Revisar citas	https://github.com/frangmt046-lgtm/apartalo-lingo/issues/4	Historias	3	Must				historia
+HU: Limitar reprogramaciones de un paquete	https://github.com/frangmt046-lgtm/apartalo-lingo/issues/6	Historias	2	Must				historia
+HU: Comprar un paquete de 10 sesiones	https://github.com/frangmt046-lgtm/apartalo-lingo/issues/8	Historias	5	Must				historia
+HU: Reservar una sesión grupal con compañeros	https://github.com/frangmt046-lgtm/apartalo-lingo/issues/9	Historias	5	Must				historia
+HU: Registrar mi disponibilidad	https://github.com/frangmt046-lgtm/apartalo-lingo/issues/11	Historias	8	Must				historia
+HU: Elegir el idioma de la tutoría	https://github.com/frangmt046-lgtm/apartalo-lingo/issues/13	Historias	2	Must				historia
+HU: Enviar recordatorios	https://github.com/frangmt046-lgtm/apartalo-lingo/issues/5	Historias	13	Should				historia
+HU: Ver cuántas sesiones me quedan	https://github.com/frangmt046-lgtm/apartalo-lingo/issues/7	Historias	2	Should				historia
+HU: Ver horarios disponibles de los tutores	https://github.com/frangmt046-lgtm/apartalo-lingo/issues/10	Liberación	13	Should				historia
+HU: Recibir aviso cuando un alumno cambia su sesión	https://github.com/frangmt046-lgtm/apartalo-lingo/issues/12	Historias	5	Should				historia
+HU: Visualización del calendario	https://github.com/frangmt046-lgtm/apartalo-lingo/issues/18	Historias	5	Should				historia
+HU: Compra desde el horario	https://github.com/frangmt046-lgtm/apartalo-lingo/issues/19	Historias	8	Should				historia
+HU: Solicitud para sesión grupal	https://github.com/frangmt046-lgtm/apartalo-lingo/issues/14	Historias	21	Could				historia
+HU: Racha semanal de sesiones	https://github.com/frangmt046-lgtm/apartalo-lingo/issues/15	Historias	21	Could				historia
+Épica: Clases grupales en línea	https://github.com/frangmt046-lgtm/apartalo-lingo/issues/16	Historias	21	Could				epica
+Épica: Plataformas de las universidades	https://github.com/frangmt046-lgtm/apartalo-lingo/issues/17	Historias	21	Won't				epica
+HU: Actualización de precios	https://github.com/frangmt046-lgtm/apartalo-lingo/issues/20							historia
+RNF: Hora pico	https://github.com/frangmt046-lgtm/apartalo-lingo/issues/21							rnf
+RNF: Entradas inválidas	https://github.com/frangmt046-lgtm/apartalo-lingo/issues/22							rnf
+RNF: Reglas con TDD	https://github.com/frangmt046-lgtm/apartalo-lingo/issues/23							rnf
