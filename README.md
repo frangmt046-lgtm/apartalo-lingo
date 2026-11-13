@@ -1,27 +1,24 @@
-# Apártalo — <nombre del negocio de tu variante>
-
-> Repositorio de la **Evidencia 1** de *Proyecto de ingeniería de software* (Tecmilenio, CRN 13241).
-> Sustituye todo lo que está entre `< >` y borra las líneas de ayuda que empiezan con `>`.
+# Apártalo — Lingo
 
 | Dato | |
 |---|---|
-| Estudiante | `<tu nombre>` |
-| Matrícula | `<tu matrícula>` |
-| Variante | `<número y nombre, por ejemplo: 1 — Barbería Filo>` |
-| Project (tablero) | `<enlace a tu GitHub Project>` |
+| Estudiante | `Francisco Guadarrama Martinez` |
+| Matrícula | `Al02893971` |
+| Variante | ` 6 — Escuela de idiomas Lingo ` |
+| Project (tablero) | `https://github.com/users/frangmt046-lgtm/projects/2` |
 
 ## Visión del producto
-> 🎩 PO · Ejercicio 1, punto 1. De 3 a 5 líneas: qué es la app, para quién y qué problema resuelve.
 
-<tu visión>
+
+La app es una plataforma para comprar y agendar sesiones, esta esta enfocada para que la usen alumnos y tutores, la app resuelve problemas de administración para la dirección de la escuela, evitando mensajes en todo momento moviendo y cancelando sesiones, problemas con pagos atrasados y facilita la coordinacion de sesiones grupales e individuales. 
 
 ## Mi equipo Scrum (los tres sombreros)
 
 | Sombrero | Lo que hago con él en este proyecto |
 |---|---|
-| 🎩 PO | `<...>` |
-| 🎩 SM | `<...>` |
-| 🎩 Desarrollador | `<...>` |
+| 🎩 PO | se desarrollo y priorizo el backlog del proyecto |
+| 🎩 SM | se configuro el tablero en github y los límites WIP |
+| 🎩 Desarrollador | se desarrollaron R1 y R2 con sus pruebas  |
 
 ## Cómo está organizado este repositorio
 
